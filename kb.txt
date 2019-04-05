@@ -1,3 +1,4 @@
+-B -C -D F
 -B -C D
 -D E
 -A B
